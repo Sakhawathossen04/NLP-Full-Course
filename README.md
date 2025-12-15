@@ -226,5 +226,3 @@ NLP-with-Transformers-15Days/
  Maintained by: *Sakhawat Hossen*
 
 ---
-
-✍️ Maintained by: **Bangla NLP & AI Community**
